@@ -13,9 +13,7 @@
     "BIDSVersion": "1.4.1",
     "DatasetDOI": "TODO: eventually a DOI for the dataset",
     "Funding": [
-        "TODO",
-        "GRANT #1",
-        "GRANT #2"
+        "No funding declared"
     ],
     "HowToAcknowledge": "Publication pending; please refer to this website for now",
     "License": "CC0",
