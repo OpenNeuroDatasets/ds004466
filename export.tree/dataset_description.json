@@ -1,0 +1,27 @@
+{
+    "Acknowledgements": "",
+    "Authors": [
+        "Chris Racey",
+        "Charlotte Rae",
+        "Ivor Simpson",
+        "Oscar Bowen-Hill",
+        "Mathilde Bauer",
+        "Julia Simner",
+        "Christina Kampoureli",
+        "Jamie Ward"
+    ],
+    "BIDSVersion": "1.4.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004466.v1.0.0",
+    "Funding": [
+        "No funding declared"
+    ],
+    "HowToAcknowledge": "Publication pending; please refer to this website for now",
+    "License": "CC0",
+    "Name": "Mapping the Connectome of Synaesthesia: An Open Access MRI Dataset",
+    "ReferencesAndLinks": [
+        "https://osf.io/ycqgd/ (pre-registration, surveys, associated data)"
+    ],
+    "EthicsApprovals": [
+        "Brighton and Sussex Medical School (BSMS) Research Governance and Ethics Committee"
+    ]
+}
